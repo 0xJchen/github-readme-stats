@@ -54,7 +54,7 @@
   </p>
 </p>
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PeppaCat)](https://github.com/anuraghazra/github-readme-stats)
 # Features
 
 - [GitHub Stats Card](#github-stats-card)
